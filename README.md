@@ -21,12 +21,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-Experience Rakth-Setu in action:  
-[https://rakthsetu.lovable.app/](https://rakthsetu.lovable.app/)
-
----
 
 ## 🛠️ Technologies Used
 
